@@ -1,0 +1,13 @@
+# rubygem-actionpack requires version (= 4.2.3)
+# check: https://rubygems.org/gems/actionpack/versions/4.2.3
+# rubygem-activerecord requires version (= 4.2.3)
+# check: https://rubygems.org/gems/activerecord/versions/4.2.3
+# rubygem-actionview requires version (= 4.2.3)
+# check: https://rubygems.org/gems/actionview/versions/4.2.3
+# rubygem-cells requires version (>=0)
+# check: https://rubygems.org/gems/cells/versions/3.11.3
+# rubygem-mongoid requires version (~> 4.0)
+# https://rubygems.org/gems/mongoid/versions/4.0.2
+# rubygem-rails requires version (4.2.3)
+# check: https://rubygems.org/gems/rails/versions/4.2.3
+watchurl=https://rubygems.org/gems/activemodel/versions/(4.2.3)
